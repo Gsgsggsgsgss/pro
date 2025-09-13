@@ -1,33 +1,12 @@
 {
-    "next_id": 5,
+    "next_id": 10,
     "sessions": [
         {
             "file_name": "sessions_9779762875194.session",
-            "start_time": "2025-09-11T02:06:24.415566+03:00",
+            "start_time": "2025-09-14T01:03:15.326313+03:00",
             "temporary": false,
             "user_id": 8124994816,
-            "id": 1
-        },
-        {
-            "file_name": "sessions_9779762875194.session",
-            "start_time": "2025-09-11T02:07:23.476370+03:00",
-            "temporary": false,
-            "user_id": 8124994816,
-            "id": 2
-        },
-        {
-            "file_name": "sessions_9779762875194.session",
-            "start_time": "2025-09-11T14:56:18.820037+03:00",
-            "temporary": false,
-            "user_id": 8124994816,
-            "id": 3
-        },
-        {
-            "file_name": "sessions_9779762875194.session",
-            "start_time": "2025-09-12T16:08:03.158028+03:00",
-            "temporary": false,
-            "user_id": 8124994816,
-            "id": 4
+            "id": 9
         }
     ]
 }
