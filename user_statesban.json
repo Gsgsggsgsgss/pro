@@ -12,5 +12,19 @@
       "fail": 0
     },
     "last_active": 1757953875.7966201
+  },
+  "8430028376": {
+    "active": false,
+    "daily": {
+      "2025-09-19": {
+        "success": 3000,
+        "fail": 0
+      }
+    },
+    "total": {
+      "success": 3000,
+      "fail": 0
+    },
+    "last_active": 1758322148.7055163
   }
 }
